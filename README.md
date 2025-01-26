@@ -65,7 +65,7 @@ Select your mood and discover personalized music suggestions:
 ---
 
 ## 🌐 Live Demo
-[Click here to access the live app](#) *(Replace with actual link)*
+[Click here to access the live app](#) 
 
 ---
 
